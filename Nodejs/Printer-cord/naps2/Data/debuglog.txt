@@ -1,0 +1,16 @@
+2025-06-22 20:56:28.2020 23944 Debug: Using new dsm. 
+2025-06-22 20:56:28.2706 23944 Debug: Thread 1: OpenManager. 
+2025-06-22 20:56:28.3034 23944 Debug: Using TWAIN2 memory functions. 
+2025-06-22 20:56:28.3034 23944 Debug: Thread 1: CloseManager. 
+2025-06-22 20:56:28.3034 23944 Debug: Using new dsm. 
+2025-06-22 20:56:28.3034 23944 Debug: Thread 1: OpenManager. 
+2025-06-22 20:56:28.3034 23944 Debug: Using TWAIN2 memory functions. 
+2025-06-22 20:56:28.3034 23944 Debug: Thread 1: CloseManager. 
+2025-06-22 20:57:27.6198 8368 Debug: Using new dsm. 
+2025-06-22 20:57:27.6966 8368 Debug: Thread 1: OpenManager. 
+2025-06-22 20:57:27.7064 8368 Debug: Using TWAIN2 memory functions. 
+2025-06-22 20:57:27.7064 8368 Debug: Thread 1: CloseManager. 
+2025-06-22 20:57:27.7064 8368 Debug: Using new dsm. 
+2025-06-22 20:57:27.7064 8368 Debug: Thread 1: OpenManager. 
+2025-06-22 20:57:27.7064 8368 Debug: Using TWAIN2 memory functions. 
+2025-06-22 20:57:27.7064 8368 Debug: Thread 1: CloseManager. 
